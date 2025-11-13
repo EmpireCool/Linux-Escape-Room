@@ -1,0 +1,5 @@
+Die Datei bitcoin-wallet.txt.enc wurde mit openssl verschlüsselt.
+Verwende zum Entschlüsseln folgenden Befehl:
+openssl enc -d -aes-256-cbc -pbkdf2 -in bitcoin-wallet.txt.enc -out bitcoin-wallet.txt
+
+Passwort: F{aD

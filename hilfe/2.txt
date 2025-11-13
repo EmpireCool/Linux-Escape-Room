@@ -1,0 +1,2 @@
+Die Datei ist wahrscheinlich viel zu lang, um die Lösung zu finden.
+Es könnte helfen mit grep nach einem Wort zu suchen.

@@ -1,0 +1,5 @@
+Dateien können mit einem . vor dem Namen versteckt werden.
+Verwende den folgenden Befehl, um die Datei zu öffnen:
+nano .secret.txt 
+
+Lösungsbuchstabe: F

@@ -1,0 +1,3 @@
+Ist dir schon die Datei hash.txt mit einer sha245sum aufgefallen?
+Vielleicht hilft es herauszufinden, welche Datei zu diesem Hash gehört.
+Unter Linux gibt es den Befehl "sha256sum", um eine Datei auf ihren Hash-Wert zu überprüfen... 

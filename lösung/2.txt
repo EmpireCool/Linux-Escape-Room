@@ -1,0 +1,7 @@
+In der Datei sind ca. 1400 Zeilen zufällige Zeichen, Buchstaben und Symbole enthalten.
+Um dort das entscheidende Symbol zu finden, kann man die Datei auf bestimmte Wörter überprüfen.
+Verwende folgenden Befehl, um in der Datei nach dem Wort „Symbol“ zu suchen:
+
+grep Symbol long.txt
+
+Das Symbol hinter dem Wort "Symbol" ist die Lösung.

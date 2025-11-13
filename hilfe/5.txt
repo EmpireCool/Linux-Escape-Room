@@ -1,0 +1,3 @@
+Verschlüsselte Dateien kann man unteranderem mit dem Befehl "openssl" entschlüsseln.
+Das Passwort ergibt sich aus den 4 anderen Minispielen.
+Wenn du dich fragst, welcher Algorythmus verwendet wurde, kannst du diesen in der readme.txt finden... 

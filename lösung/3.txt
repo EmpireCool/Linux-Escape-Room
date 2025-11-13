@@ -1,0 +1,4 @@
+Unter Linux kann man mit dem Befehl "find" nach z.B. Dateien in Ordnern suchen.
+Der Lösungsbefehl wäre hierbei: find -name "*.txt" ! -name "temp.txt"
+
+Lösungsbuchstabe: a 
